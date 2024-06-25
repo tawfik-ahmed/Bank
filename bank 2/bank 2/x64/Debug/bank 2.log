@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\bank 2\bank 2\Source.cpp(32,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  bank 2.vcxproj -> C:\Users\tawfi\OneDrive\Desktop\projects\Bank\bank 2\x64\Debug\bank 2.exe

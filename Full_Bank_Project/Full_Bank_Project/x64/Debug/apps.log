@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsUser.h(26,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(207,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(152,12): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(445,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsLoginScreen.h(64): warning C4715: 'clsLoginScreen::ShowLoginScreen': not all control paths return a value
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsBankClient.h(449): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\apps\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+  apps.vcxproj -> C:\Users\tawfi\OneDrive\Desktop\projects\Bank\apps\x64\Debug\apps.exe

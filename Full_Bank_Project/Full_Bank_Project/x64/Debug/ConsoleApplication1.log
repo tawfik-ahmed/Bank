@@ -1,0 +1,49 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(117,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(369,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  clsDepositScreen.cpp
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(369,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(117,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  clsUpdateUserScreen.cpp
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(117,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(369,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(312): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\ConsoleApplication1\clsUser.h(309): warning C4715: 'clsUser::Save': not all control paths return a value
+clsFindUserScreen.obj : error LNK2005: "class clsUser CurrentUser" (?CurrentUser@@3VclsUser@@A) already defined in clsDepositScreen.obj
+clsUpdateUserScreen.obj : error LNK2005: "class clsUser CurrentUser" (?CurrentUser@@3VclsUser@@A) already defined in clsDepositScreen.obj
+clsUsersListScreen.obj : error LNK2005: "class clsUser CurrentUser" (?CurrentUser@@3VclsUser@@A) already defined in clsDepositScreen.obj
+clsWithdrawScreen.obj : error LNK2005: "class clsUser CurrentUser" (?CurrentUser@@3VclsUser@@A) already defined in clsDepositScreen.obj
+ConsoleApplication1.obj : error LNK2005: "class clsUser CurrentUser" (?CurrentUser@@3VclsUser@@A) already defined in clsDepositScreen.obj
+C:\Users\tawfi\OneDrive\Desktop\Fundamental\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1169: one or more multiply defined symbols found
